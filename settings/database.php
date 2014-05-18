@@ -1,9 +1,10 @@
 <?php
+//Data Source=tcp:xb8p46shxq.database.windows.net,1433;Initial Catalog=;User Id=;Password=;
 	$database="sphider";
-	$mysql_user = "root";
-	$mysql_password = ""; 
-	$mysql_host = "localhost";
-	$mysql_table_prefix = "";
+	$mysql_user = "bestread@xb8p46shxq";
+	$mysql_password = "Joymm1986"; 
+	$mysql_host = "tcp:xb8p46shxq.database.windows.net,1433";
+	$mysql_table_prefix = "sphider";
 
 
 
