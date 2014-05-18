@@ -3,8 +3,8 @@
 	$database="sphider";
 	$mysql_user = "bestread@xb8p46shxq";
 	$mysql_password = "Joymm1986"; 
-	$mysql_host = "xb8p46shxq.database.windows.net";
-	$mysql_table_prefix = "sphider";
+	$mysql_host = "tcp:xb8p46shxq.database.windows.net,1433";
+	$mysql_table_prefix = "";
 
 
 
