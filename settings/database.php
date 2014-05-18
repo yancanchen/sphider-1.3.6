@@ -1,9 +1,9 @@
 <?php
-//Data Source=tcp:xb8p46shxq.database.windows.net,1433;Initial Catalog=;User Id=;Password=;
-	$database="sphider";
-	$mysql_user = "bestread@xb8p46shxq";
-	$mysql_password = "Joymm1986"; 
-	$mysql_host = "tcp:xb8p46shxq.database.windows.net,1433";
+//Database=bestread;Data Source=ap-cdbr-azure-east-c.cloudapp.net;User Id=b364405784bac9;Password=7c6a848a
+	$database="bestread";
+	$mysql_user = "b364405784bac9";
+	$mysql_password = "7c6a848a"; 
+	$mysql_host = "ap-cdbr-azure-east-c.cloudapp.net";
 	$mysql_table_prefix = "";
 
 
